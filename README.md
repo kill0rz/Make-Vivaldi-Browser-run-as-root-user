@@ -7,4 +7,5 @@ Small php script that modifies the executable file of Vivaldi Browser to give it
 Script has to be executed after every update.
 
 Visit website: https://vivaldi.com
+
 I am not associated with Vivaldi or any part of it.
